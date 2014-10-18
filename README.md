@@ -3,7 +3,7 @@ Test-DST4L
 
 Testing during DST4L class
 
-## L||earning at Harvard
+## Learning at Harvard
 >"lots of fun learning stuff"
 
 ##overview
